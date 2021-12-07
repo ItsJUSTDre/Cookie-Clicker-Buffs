@@ -47,8 +47,4 @@ of course
 ### Todaloo
 
 
-                                        Enjoy the hacked saves.
-                                        If anything happens to them
-                                        make sure to report it in
-                                        an issue. 
-                                        todaloo
+                                        This is ThatOneBlankKid, due to G-Mail related issues, i lost my original, and alt account, but I'm back. And I'm ready to continue this dead repository
